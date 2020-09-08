@@ -2,7 +2,7 @@
 //Resolver
 const resolvers = {
     Query: {
-        
+        obtenerCurso: () => "Algo" 
     }
 }
 
